@@ -1,12 +1,12 @@
 # SUMÁRIO
 
-[Descrição de Projeto](#Descrição-de-Projeto)…………………………………………………………………………………2
-[Termo de Abertura de Projeto](#Termo-de-Abertura-do-Projeto)………………………………….………………….…….……….…3
-[EAP](#EAP)…………………………………………………………………………………………………….4
-[Quadro de Tempo](#Quadro-de-Tempo)…………………………………………………………………………………….5
-[Quadro de Equipe](#Quadro-de-Equipe)…………………………………………………………………………………….6
-[Quadro do diagrama de redes](#Quadro-do-diagrama-de-redes)………………………………………………………………………7
-[Diagrama de Rede](#Diagrama-de-Rede)……………………………………………………………………………………8
+[Descrição de Projeto](#Descrição-de-Projeto)…………………………………………………………………………………2  
+[Termo de Abertura de Projeto](#Termo-de-Abertura-do-Projeto)………………………………….………………….…….……….…3  
+[EAP](#EAP)…………………………………………………………………………………………………….4  
+[Quadro de Tempo](#Quadro-de-Tempo)…………………………………………………………………………………….5  
+[Quadro de Equipe](#Quadro-de-Equipe)…………………………………………………………………………………….6  
+[Quadro do diagrama de redes](#Quadro-do-diagrama-de-redes)………………………………………………………………………7  
+[Diagrama de Rede](#Diagrama-de-Rede)……………………………………………………………………………………8   
 
 
 ## Termo de Abertura do Projeto
@@ -68,7 +68,7 @@ Observações:
 ## Diagrama de Rede
 
 
-![Diagrama de rede](/diagrama_de_rede.jpg "Diagrama de rede")
+![Diagrama de rede](/diretorio_imagens/diagrama_de_rede.jpg "Diagrama de rede")
 
 
 
