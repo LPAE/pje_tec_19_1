@@ -1,7 +1,7 @@
 # SUMÁRIO
 
 1. [Descrição de Projeto](#Descrição-de-Projeto)   
-2. [Termo de Abertura de Projeto](#Termo-de-Abertura-do-Projeto)
+2. [Termo de Abertura de Projeto](#2-.-Termo-de-Abertura-do-Projeto)
 3. [EAP](#EAP)   
 4. [Quadro de Tempo](#Quadro-de-Tempo)  
 5. [Quadro de Equipe](#Quadro-de-Equipe)  
