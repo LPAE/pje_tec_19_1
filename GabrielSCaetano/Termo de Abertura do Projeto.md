@@ -71,7 +71,7 @@ Diagrama de rede img
 
 ![Diagrama de rede img](/diretorio_imagens/diagrama_de_rede.jpg)
 
-![Diagrama de rede img](pje_tec_19_1/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
+![Diagrama de rede img](/pje_tec_19_1/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
 
 
 
