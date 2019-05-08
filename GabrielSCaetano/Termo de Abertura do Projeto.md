@@ -37,11 +37,11 @@
     - Entrega do produto dentro do prazo estimado; 
 
 7 – Equipe Básica:
-Elias Jonas Pedro - Confecção do manual 
-Henrique Veleda - Design de gabinete/painel
-Karen Freitas - Compra de componentes
-Matheus Schlosser - Desenvolvimento de software/firmware 
-Wellington Batista - Desenvolvimento de hardware 
+Elias Jonas Pedro - Confecção do manual   
+Henrique Veleda - Design de gabinete/painel  
+Karen Freitas - Compra de componentes  
+Matheus Schlosser - Desenvolvimento de software/firmware   
+Wellington Batista - Desenvolvimento de hardware       
 
 8 – Prazo Previsto: 25/06/2019
 
@@ -57,8 +57,8 @@ Considerações:
 
 10 – Aprovação:
 
-Responsável - Gabriel da Silva Caetano
-Data - 26/03/2019
+Responsável - Gabriel da Silva Caetano  
+Data - 26/03/2019  
 Assinatura:
 
 Observações:
@@ -67,8 +67,11 @@ Observações:
 
 ## Diagrama de Rede
 
+Diagrama de rede img
 
-![Diagrama de rede](/diretorio_imagens/diagrama_de_rede.jpg "Diagrama de rede")
+![Diagrama de rede img](/diretorio_imagens/diagrama_de_rede.jpg)
+
+![Diagrama de rede img](pje_tec_19_1/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
 
 
 
