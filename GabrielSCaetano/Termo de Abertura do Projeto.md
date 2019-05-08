@@ -1,12 +1,12 @@
 # SUMÁRIO
 
 1. [Descrição de Projeto](#Descrição-de-Projeto)   
-2. [Termo de Abertura de Projeto](#2-.-Termo-de-Abertura-do-Projeto)
+2. [Termo de Abertura de Projeto](#2.-Termo-de-Abertura-do-Projeto)
 3. [EAP](#EAP)   
 4. [Quadro de Tempo](#Quadro-de-Tempo)  
 5. [Quadro de Equipe](#Quadro-de-Equipe)  
 6. [Quadro do diagrama de redes](#Quadro-do-diagrama-de-redes)  
-7. [Diagrama de Rede](#Diagrama-de-Rede)  
+7. [Diagrama de Rede](#7-Diagrama-de-Rede)  
 
 
 ## 2. Termo de Abertura do Projeto
@@ -63,7 +63,7 @@ Assinatura:
 
 Observações:
 
-## 7. Diagrama de Rede
+## 7 Diagrama de Rede
 
 ![Diagrama de rede](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
 
@@ -77,3 +77,4 @@ Observações:
 
 
 
+ 
