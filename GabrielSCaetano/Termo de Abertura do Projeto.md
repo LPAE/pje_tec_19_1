@@ -67,13 +67,7 @@ Observações:
 
 ## Diagrama de Rede
 
-Diagrama de rede img
-
-![Diagrama de rede img](/diretorio_imagens/diagrama_de_rede.jpg)
-
-![Diagrama de rede img](/pje_tec_19_1/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
-
-![Diagrama de rede img](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
+![Diagrama de rede](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
 
 
 
