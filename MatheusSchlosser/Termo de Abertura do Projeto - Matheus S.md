@@ -14,9 +14,9 @@
 
 1 – Nome do Projeto: Gerador de Funções Digital
 
-2 – Gestor do Projeto: Gabriel da Silva Caetano
+2 – Gestor do Projeto: Matheus Schlösser Alexandre
 
-2.1 – E-mail: 98gabrielSc@gmail.com
+2.1 – E-mail: matheuschlosser@gmail.com
 
 3 – Objetivo do Documento: Formalizar o processo de abertura do projeto de uma releitura de um gerador de funções baseado no modelo Minipa MFG-4201A. Tem como objetivo também, definir um conjunto de ações à ser desenvolvido pelas equipes componentes do seguinte projeto, que estão inter-relacionadas, buscando o alcance de resultados pré-estabelecidos. 
 
