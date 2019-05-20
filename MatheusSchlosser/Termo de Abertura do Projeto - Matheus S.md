@@ -39,11 +39,12 @@ Será abordado para o desenvolvimento as seguintes etapas:
     - Entrega do produto dentro do prazo estimado; 
 
 7 – Equipe Básica:
-Henrique Veleda - Compra de componentes/periféricos 
-Wellington Batista - Desenvolvimento de hardware 
-Elias Jonas Pedro - Confecção do manual técnico    
-Karen Freitas - Design de gabinete/painel 
-Gabriel Caetano - Desenvolvimento de software/firmware   
+
+- Henrique Veleda - Compra de componentes/periféricos 
+- Wellington Batista - Desenvolvimento de hardware 
+- Elias Jonas Pedro - Confecção do manual técnico    
+- Karen Freitas - Design de gabinete/painel 
+- Gabriel Caetano - Desenvolvimento de software/firmware   
       
 
 8 – Prazo Previsto: 25/06/2019
