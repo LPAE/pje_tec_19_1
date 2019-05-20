@@ -18,7 +18,7 @@
 
 2.1 – E-mail: matheuschlosser@gmail.com
 
-3 – Objetivo do Documento: Formalizar o processo de abertura do projeto de uma releitura de um gerador de funções baseado no modelo Minipa MFG-4201A. Tem como objetivo também, definir um conjunto de ações à ser desenvolvido pelas equipes componentes do seguinte projeto, que estão inter-relacionadas, buscando o alcance de resultados pré-estabelecidos. 
+3 – Este documento tem como objetivo autorizar formalmente o início de um projeto e contém informações necessárias para o entendimento do projeto, fornecendo uma visão macro do produto a ser desenvolvido.
 
 4 – Objetivo do Projeto: Construção de um equipamento utilizado para gerar sinais senoidais, triangulares, quadrados, pulsos, com variadas frequências e amplitudes, sendo empregado em laboratórios como fonte de sinal para testes de equipamentos/circuitos eletrônicos. 
 
@@ -26,6 +26,7 @@
 
 6 – Escopo: Serão abordadas, para o desenvolvimento, as seguintes etapas:
 - Iniciação;
+Será abordado para o desenvolvimento as seguintes etapas:
 - Planejamento:
      - Traçar as metas através de um cronograma;
      - Coletar os recursos disponíveis;
@@ -38,11 +39,12 @@
     - Entrega do produto dentro do prazo estimado; 
 
 7 – Equipe Básica:
-Elias Jonas Pedro - Confecção do manual   
-Henrique Veleda - Design de gabinete/painel  
-Karen Freitas - Compra de componentes  
-Matheus Schlosser - Desenvolvimento de software/firmware   
-Wellington Batista - Desenvolvimento de hardware       
+Henrique Veleda - Compra de componentes/periféricos 
+Wellington Batista - Desenvolvimento de hardware 
+Elias Jonas Pedro - Confecção do manual técnico    
+Karen Freitas - Design de gabinete/painel 
+Gabriel Caetano - Desenvolvimento de software/firmware   
+      
 
 8 – Prazo Previsto: 25/06/2019
 
