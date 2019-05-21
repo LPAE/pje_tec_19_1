@@ -83,7 +83,7 @@ Observações:
 
 ## 7 Diagrama de Redes
 
-> `Diagrama de Redes representa de forma gráfica a sequência em que as etapas do projeto são priorizadas e concluídas, apresentando as relações entre as atividades. Dentro de cada tarefa é possível identificar o responsável, o tempo de início e conclusão, incluindo os conceitos de início e término mais cedo e mais tarde. O gráfico também apresenta o caminho crítico do projeto, que aponta as tarefas que demandam mais atenção em relação ao tempo de início e conclusão.`
+> Diagrama de Redes representa de forma gráfica a sequência em que as etapas do projeto são priorizadas e concluídas, apresentando as relações entre as atividades. Dentro de cada tarefa é possível identificar o responsável, o tempo de início e conclusão, incluindo os conceitos de início e término mais cedo e mais tarde. O gráfico também apresenta o caminho crítico do projeto, que aponta as tarefas que demandam mais atenção em relação ao tempo de início e conclusão.
 
 ![Quadro do Diagrama de Redes](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/diagrama_de_rede_quadro.jpg)
 
