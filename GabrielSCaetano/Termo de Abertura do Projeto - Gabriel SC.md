@@ -6,7 +6,7 @@
 4. [Quadro de Componentes Principais do Projeto](#4-Quadro-de-Componentes-Principais-do-Projeto)
 5. [Quadro de Tempo das Etapas da EAP](#5-Quadro-de-Tempo-das-Etapas-da-EAP)  
 6. [Quadro de Equipe das Etapas da EAP](#6-Quadro-de-Equipe-das-Etapas-da-EAP)  
-7. [Quadro do diagrama de redes](#7-Quadro-do-Diagrama-de-Redes)  
+7. [Quadro do Diagrama de Redes](#7-Quadro-do-Diagrama-de-Redes)  
 8. [Diagrama de Rede](#8-Diagrama-de-Rede)  
 9. [Quadro de Riscos](#9-Quadro-de-Riscos)  
 10. [Gráfico de Gantt](#10-Gráfico-de-Gantt)
