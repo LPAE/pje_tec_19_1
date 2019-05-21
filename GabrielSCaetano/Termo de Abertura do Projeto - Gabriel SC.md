@@ -3,7 +3,7 @@
 1. [Descrição de Projeto](#1-Descrição-de-Projeto)   
 2. [Termo de Abertura de Projeto](#2-Termo-de-Abertura-do-Projeto)
 3. [EAP](#3-EAP)   
-4. [Gráfico de Gantt](#4-Quadro-de-Componentes)
+4. [Quadro de Componentes Principais do Projeto](#4-Quadro-de-Componentes-Principais-do-Projeto)
 5. [Quadro de Tempo das Etapas da EAP](#5-Quadro-de-Tempo-das-Etapas-da-EAP)  
 6. [Quadro de Equipe das Etapas da EAP](#6-Quadro-de-Equipe-das-Etapas-da-EAP)  
 7. [Quadro do diagrama de redes](#7-Quadro-do-Diagrama-de-Redes)  
