@@ -12,7 +12,102 @@
 
 ## 2 Termo de Abertura do Projeto
 
-Colocar Termo de Abertura - Karen
+1 – Nome do Projeto : Gerador de Funções Digital
+
+2 – Gestor do Projeto CEO: Karen Calliari de Freitas
+
+        2.1 – E-mail: kayfreittas@hotmail.com
+
+        2.2 – Telefone: (48) 996178516 (Whatzapp)
+
+3 – Objetivo do Documento: Estabelecer as diretrizes do projeto a ser executado definindo
+neste termo o conjunto de ações para produção de um gerador de funções baseado no
+modelo da Minipa MFG-4201A.
+
+4 – Objetivo do Projeto: Construção de um equipamento gerador de funções ,utilizado para
+gerar sinais senoidais, triangulares, quadrados, pulsos, todos com diversas frequências e
+amplitudes, sendo utilizado em laboratórios como fonte de sinal para testes de equipamentos
+eletrônicos. O produto em questão é dividido em três núcleos de desenvolvimento com suas
+principais tecnologias aplicas;
+
+        A- Main Board (MC 10116, GAL 16V8, 89C52, 75107AN, 7426, line filter),
+        B- Display Board (74HC138, Display Led 3 uni 6x6, FND 7-SEG, LTD-4708G)
+        C- Box (Pé e Cinta de borracha para proteção, serigrafia, chassi frontal, POWER
+           SWITCH PUSH/PULL, POWER, TRANSFORMADOR, CONECTOR BNC-RB,
+           PAINEL FRONTAL, KNOB, AC INLET, FUSE 250V 0.2A, VOLTAGE SELECTOR)
+
+5 – Justificativa: Oferecer uma ampla faixa de aplicações tanto em eletrônica analógica como
+digital, nos campos de engenharia, produção, manutenção, educação.
+
+6 – Escopo as seguintes etapas:
+
+   1.   Objetivos
+   2.   Fases
+   3.   Tarefas
+   4.   Recursos
+   5.   Despesas
+   6.   Cronograma
+   7.   Riscos (MITIGAR , PREVENIR)
+   8.   Metas de cada etapa
+   9.   Prazo
+
+7 – Não Escopo:
+
+        1- Estimativa imprecisas de recursos e/ou tempo
+
+        2- Solicitações não razoáveis do cliente
+
+8 – Estrutura Organizacional:
+
+       Equipe recrutada para o projeto:
+
+       IAM (Imaplantação, Auditoria e Manutenção)
+
+
+            - ELIAS JONAS PEDRO – email:   eliasjonaspedro@hotmail.com
+
+       GCM (Gestão de Clientes e Mercado)
+
+
+            - HENRIQUE VELEDA – email:    henriqueveleda@live.com
+
+       P&D (Pesquisa e Desenvolvimento)
+
+
+            - MATHEUS SCHLOSSER – email:    matheuschlosser@gmail.com
+
+       PLS (Produção Logistica e Suprimentos)
+
+
+            - WELLINGTON TEODORO – email:    w.b.teodoro@gmail.com
+
+       QOP (Qualidade, Ouvidoria e Processos)
+
+
+                     - GABRIEL CAETANO – email:    98gabrielsc@gmail.com
+
+       NAT (Núcleo de Assistência Técnica)
+
+
+                     - RAFAEL JONATAN HORN – email:   rafael.h@aluno.ifsc.edu.br
+
+
+
+
+9 – Orçamento Previsto: R$1500,00, baseado na pesquisa de mercado tendo em vista que
+este modelo já está descontinuado, possuindo apenas assistência técnica.
+
+10 – Prazo Previsto: 20 semana.
+
+11 – Restrições: Tempo de importação dos componentes, relação a aportes financeiros, prazo
+e tamanho da equipe e aspectos técnicos.
+
+12 – Considerações: Este termo de abertura está em fase de desenvolvimento podendo ter
+suas informações retificadas e acréscimo de informações.
+
+13 – Aprovação:
+
+14 – Data: 12/03/2019
 
 ## 3 EAP
 
