@@ -25,7 +25,7 @@
 ## 1.4 Recursos Humanos
 > Para desenvolvimento do projeto, necessita-se uma equipe multidisciplinar, que é composta por integrantes que atuam em áreas diferentes mas que se completam para o desenvolvimento do projeto. Cada equipe/integrante reúne alguma caracteristica que o torna importante para a continuidade do projeto, que os quais devem ser divididos através de um equilíbrio disciplinar.
 
-## 2 Termo de Abertura do Projeto
+# 2 Termo de Abertura do Projeto
 
 1 – Nome do Projeto : Gerador de Funções Digital
 
@@ -33,7 +33,7 @@
 
         2.1 – E-mail: kayfreittas@hotmail.com
     
-        2.2 – Telefone: (48) 996178516 (Whatzapp)
+        2.2 – Telefone: (48) 996178516 (Whatsapp)
 
 3 – Objetivo do Documento: Estabelecer as diretrizes do projeto a ser executado definindo
 neste termo o conjunto de ações para produção de um gerador de funções baseado no
@@ -72,7 +72,7 @@ digital, nos campos de engenharia, produção, manutenção, educação.
     
         2- Solicitações não razoáveis do cliente
 
-8 – Estrutura Organizacional:
+8 – Estrutura Organizacional:
 
        Equipe recrutada para o projeto:
     
@@ -124,31 +124,31 @@ suas informações retificadas e acréscimo de informações.
 
 14 – Data: 12/03/2019
 
-## 3 EAP
+# 3 EAP
 
 > A estrutura analítica do projeto, tem como função separar o projeto em pequenas partes deixando-o mais articulado e de fácil controle, possibilitando uma visão estruturada do que deve ser entregue. É estruturada no formato de árvore hierárquica orientando às entregas que precisam ser feitas para completar um projeto. 
 
 ![EAP](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/EAP.jpg)
 
-## 4 Quadro de Componentes Principais do Projeto 
+# 4 Quadro de Componentes Principais do Projeto 
 
 > O Quadro de Componentes visa listar as principais tecnologias que compõem o sistema eletrônico do gerador de função, com base no esquemático original. Fez-se também o levantamento dos preços e os fornecedores para ter-se uma ideia geral dos custos de componentes do projeto.
 
 ![Quadro de Componentes](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_componentes.jpg)
 
-## 5 Quadro de Tempo das Etapas da EAP
+# 5 Quadro de Tempo das Etapas da EAP
 
 > Com base na estrutura analítica do projeto, o quadro de tempo é confeccionado escrevendo as tarefas a serem realizadas, juntamente com o prazo de tempo estimado para a conclusão das mesmas.
 
 ![Quadro de Tempo](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_Tempo.jpg)
 
-## 6 Quadro de Equipe das Etapas da EAP
+# 6 Quadro de Equipe das Etapas da EAP
 
 > A partir do quadro de tempo e da equipe responsável pelo projeto, define-se os encarregados pelas tarefas com base nas suas competências.
 
 ![Quadro de Equipe](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_Equipe.jpg)
 
-## 7 Diagrama de Rede
+# 7 Diagrama de Rede
 
 > Diagrama de Redes representa de forma gráfica a sequência em que as etapas do projeto são priorizadas e concluídas, apresentando as relações entre as atividades. Dentro de cada tarefa é possível identificar o responsável, o tempo de início e conclusão, incluindo os conceitos de início e término mais cedo e mais tarde. O gráfico também apresenta o caminho crítico do projeto, que aponta as tarefas que demandam mais atenção em relação ao tempo de início e conclusão.
 
@@ -156,23 +156,23 @@ suas informações retificadas e acréscimo de informações.
 
 ![Diagrama de rede](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
 
-## 8 Quadro de Riscos  
+# 8 Quadro de Riscos  
 
 > Diante das atividades anteriormente estipuladas, define-se um quadro que expressa os riscos decorrentes no projeto, bem como suas consequências, suas chances de ocorrência, impacto no projeto e quais os planos de ação para resolução dos mesmos.
 
-## - Plano de Gerenciamento de Riscos
+## 8.1 Plano de Gerenciamento de Riscos
 
 > O gerenciamento de riscos é determinado a partir da EAP identificando em cada pacote de trabalho os riscos advindos de ameaças e oportunidades ao longo do desenvolvimento deste projeto.
 Espera-se que durante o ciclo de vida deste projeto o gerente de projeto seja capaz de minimizar as consequências dos eventos adversos (ameaças) e maximizar os resultados dos eventos favoráveis (oportunidades). Tanto ameaças quanto oportunidades são eventos que podem ou não acontecer sendo assim são riscos.
 
-## - Metodologia
+## 8.2 Metodologia
 
 > A metodologia implementada incluirá os seguintes planos e processos:
 > - 1: Reuniões a cada marco de projeto com os gestores de cada área.
 > - 2: Criação de relatórios que deverão ser apresentados a cada novo marco do projeto ou reuniões extraordinárias.
 > - 3: Acompanhamento da entrega dos serviços terceirizados mediante inspeção.
 
-## - Identificar os riscos
+## 8.3 Identificar os riscos
 
 > A identificação dos riscos será definido a partir de suas causas como por exemplo
 o "atraso na entrega dos componentes", e correlacionado com seu pacote de trabalho
@@ -188,7 +188,7 @@ de cada gestor
 > O risco está presente em qualquer empresa, em qualquer setor. Nesse sentido, o objetivo da pesquisa é identificar os tipos de risco evidenciados no Quadro de Riscos. Os riscos podem ser classificados em: risco baixo, risco médio e risco alto. A classificação de cada risco é medida de acordo com as consequências que este pode vir a causar.
 Atividades que se tornam dependentes umas das outras ou que envolvem fornecedores podem se tornar fatores de risco alto quando  
 
-## 9 Gráfico de Gantt 
+# 9 Gráfico de Gantt 
 
 > É utilizado como uma ferramenta de controle de produção para ilustrar o avanço das etapas de um projeto. Os intervalos de tempo representando o início e fim de cada fase aparecem como barras horizontais sobre gráfico. Nele podem ser visualizadas as tarefas de cada  membro da equipe, assim como o tempo para realizá-la.
 
