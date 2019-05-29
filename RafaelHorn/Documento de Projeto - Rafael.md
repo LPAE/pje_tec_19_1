@@ -139,6 +139,10 @@ de cada gestor
 
 ![Quadro de Riscos](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_riscos.jpg))
 
+> Fatores de Risco Evidenciados
+O risco está presente em qualquer empresa, em qualquer setor. Nesse sentido, o objetivo da pesquisa é identificar os tipos de risco evidenciados no Quadro de Riscos. Os riscos podem ser classificados em: risco baixo, risco médio e risco alto. A classificação de cada risco é medida de acordo com as consequências que este pode vir a causar.
+Atividades que se tornam dependentes umas das outras ou que envolvem fornecedores podem se tornar fatores de risco alto quando  
+
 ## 9 Gráfico de Gantt 
 
 > É utilizado como uma ferramenta de controle de produção para ilustrar o avanço das etapas de um projeto. Os intervalos de tempo representando o início e fim de cada fase aparecem como barras horizontais sobre gráfico. Nele podem ser visualizadas as tarefas de cada  membro da equipe, assim como o tempo para realizá-la.

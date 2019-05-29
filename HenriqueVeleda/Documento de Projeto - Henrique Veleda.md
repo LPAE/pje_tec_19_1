@@ -27,38 +27,37 @@
 
 # 2 Termo de Abertura de Projeto
 
-
-## **1. Nome do Projeto**
+## **2.1. Nome do Projeto**
 
 > Gerador de Função Digital
 
-## **2. Gestor do Projeto**
+## **2.2. Gestor do Projeto**
 
 > Henrique Veleda Guimaraes
 
-## **3. Objetivo do Documento**
+## **2.3. Objetivo do Documento**
 
 >Esse projeto tem como objetivo explorar o desenvolvimento de uma releitura de um gerador de funções baseado no modelo desenvolvido pela empresa Minipa, modelo MFG-4201A.
 Possuindo as seguintes especificações básicas:
-• Gera formas de onda;
-• Gera frequências em 7 faixas;
-• Saída TTL;
-• Saída CMOS;
-• Função varredura;
-• Frequencimetro;
-• Alimentação bivolt (110V – 230V AC) 50Hz/ 60Hz;
-• Dimensões 90(a) x 255(L) x 255(P) mm;
-• Peso: Aproximadamente 2kg.
+>- Gera formas de onda;
+>- Gera frequências em 7 faixas;
+>- Saída TTL;
+>- Saída CMOS;
+>- Função varredura;
+>- Frequencimetro;
+>- Alimentação bivolt (110V – 230V AC) 50Hz/ 60Hz;
+>- Dimensões 90(a) x 255(L) x 255(P) mm;
+>- Peso: Aproximadamente 2kg.
 
-## **4. Objetivo do Projeto**
->Construção de um gerador de funções, aparelho eletrônico utilizado para gerar sinais elétricos de formas de onda, frequências e amplitude, sendo eles, sinais senoidais,triangulares, quadrados, pulsos variando em uma escala de frequências e amplitudes determinadas pelo usuário no painel do equipamento.Aparelho tem o intuído ser utilizado em laboratórios, como uma fonte de sinais de teste,para utilização em conjunto com outros equipamentos.
+## **2.4. Objetivo do Projeto**
+> Construção de um gerador de funções, aparelho eletrônico utilizado para gerar sinais elétricos de formas de onda, frequências e amplitude, sendo eles, sinais senoidais,triangulares, quadrados, pulsos variando em uma escala de frequências e amplitudes determinadas pelo usuário no painel do equipamento.Aparelho tem o intuído ser utilizado em laboratórios, como uma fonte de sinais de teste,para utilização em conjunto com outros equipamentos.
 
 
-## **5. Justificativa**
+## **2.5. Justificativa**
 
->Esse projeto foi desenvolvido a pedido da empresa para utilização interna
+> Esse projeto foi desenvolvido a pedido da empresa para utilização interna.
 
-## **6. Escopo**
+## **2.6. Escopo**
 
 >-   Pesquisa do produto analisado, para compreender os valores a serem captados para a realização do projeto, e o tempo necessário para a implementação do mesmo;
 >
@@ -70,7 +69,7 @@ Possuindo as seguintes especificações básicas:
 >
 >-   Reuniões periódicas para avaliação de imprevistos e avanços;
 
-## **7. Equipe Básica**
+## **2.7. Equipe Básica**
 
 
 |**Nome do Participante**|**Papel desempenhado**                           |
@@ -83,17 +82,17 @@ Possuindo as seguintes especificações básicas:
 |**`Elias`**	  			 |Contato com Terceiros |
 
 
-## **8 - Prazo Previsto**
+## **2.8 - Prazo Previsto**
 
 >**26/07/2019**
 
-## **9 – Orçamento Previsto**
+## **2.9 – Orçamento Previsto**
 >R$ 800,00 – Compra de componentes eletrônicos;
 >R$ 200,00 – Desenvolvimento de Case;
 >R$ 1000,00 – Reserva de contingência e reserva gerencial.
 >Total: R$ 2.000,00
 
-## **10 - Restrições**
+## **2.10 - Restrições**
 
 >1. Exceder recursos e/ou tempo, solicitações não razoáveis do cliente.
 >
@@ -101,10 +100,10 @@ Possuindo as seguintes especificações básicas:
 >
 >3. Prazo para fabricação de componentes terceirizados;
 
-## **11 - Prazo Previsto**
+## **2.11 - Prazo Previsto**
 >O prazo previsto é de 4 meses, a partir da data de assinatura do termo de abertura de projeto
 
-## **12 - Aprovação**
+## **2.12 - Aprovação**
 
 
 |**Responsável** |**Data**                       |**Assinatura**               |
@@ -148,19 +147,19 @@ Possuindo as seguintes especificações básicas:
 
 > Diante das atividades anteriormente estipuladas, define-se um quadro que expressa os riscos decorrentes no projeto, bem como suas consequências, suas chances de ocorrência, impacto no projeto e quais os planos de ação para resolução dos mesmos.
 
-## - Plano de Gerenciamento de Riscos
+## 8.1. Plano de Gerenciamento de Riscos
 
 > O gerenciamento de riscos é determinado a partir da EAP identificando em cada pacote de trabalho os riscos advindos de ameaças e oportunidades ao longo do desenvolvimento deste projeto.
 Espera-se que durante o ciclo de vida deste projeto o gerente de projeto seja capaz de minimizar as consequências dos eventos adversos (ameaças) e maximizar os resultados dos eventos favoráveis (oportunidades). Tanto ameaças quanto oportunidades são eventos que podem ou não acontecer sendo assim são riscos.
 
-## - Metodologia
+## 8.2. Metodologia
 
 > A metodologia implementada incluirá os seguintes planos e processos:
 > - 1: Reuniões a cada marco de projeto com os gestores de cada área.
 > - 2: Criação de relatórios que deverão ser apresentados a cada novo marco do projeto ou reuniões extraordinárias.
 > - 3: Acompanhamento da entrega dos serviços terceirizados mediante inspeção.
 
-## - Identificar os riscos
+## 8.3. Identificar os riscos
 
 > A identificação dos riscos será definido a partir de suas causas como por exemplo
 o "atraso na entrega dos componentes", e correlacionado com seu pacote de trabalho
@@ -171,6 +170,10 @@ de impacto e um plano de resposta. A responsabilidade por mitigar e ou prevenir 
 de cada gestor
 
 ![Quadro de Riscos](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_riscos.jpg)
+
+> Fatores de Risco Evidenciados
+O risco está presente em qualquer empresa, em qualquer setor. Nesse sentido, o objetivo da pesquisa é identificar os tipos de risco evidenciados no Quadro de Riscos. Os riscos podem ser classificados em: risco baixo, risco médio e risco alto. A classificação de cada risco é medida de acordo com as consequências que este pode vir a causar.
+Atividades que se tornam dependentes umas das outras ou que envolvem fornecedores podem se tornar fatores de risco alto quando  
 
 ## 9 Gráfico de Gantt 
 
