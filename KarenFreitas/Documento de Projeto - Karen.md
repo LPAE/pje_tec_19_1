@@ -148,7 +148,7 @@ suas informações retificadas e acréscimo de informações.
 
 ![Quadro de Equipe](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_Equipe.jpg)
 
-## 7 Diagrama de Redes
+## 7 Diagrama de Rede
 
 > Diagrama de Redes representa de forma gráfica a sequência em que as etapas do projeto são priorizadas e concluídas, apresentando as relações entre as atividades. Dentro de cada tarefa é possível identificar o responsável, o tempo de início e conclusão, incluindo os conceitos de início e término mais cedo e mais tarde. O gráfico também apresenta o caminho crítico do projeto, que aponta as tarefas que demandam mais atenção em relação ao tempo de início e conclusão.
 
@@ -185,7 +185,7 @@ de cada gestor
 ![Quadro de Riscos](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_riscos.jpg)
 
 > Fatores de Risco Evidenciados
-O risco está presente em qualquer empresa, em qualquer setor. Nesse sentido, o objetivo da pesquisa é identificar os tipos de risco evidenciados no Quadro de Riscos. Os riscos podem ser classificados em: risco baixo, risco médio e risco alto. A classificação de cada risco é medida de acordo com as consequências que este pode vir a causar.
+> O risco está presente em qualquer empresa, em qualquer setor. Nesse sentido, o objetivo da pesquisa é identificar os tipos de risco evidenciados no Quadro de Riscos. Os riscos podem ser classificados em: risco baixo, risco médio e risco alto. A classificação de cada risco é medida de acordo com as consequências que este pode vir a causar.
 Atividades que se tornam dependentes umas das outras ou que envolvem fornecedores podem se tornar fatores de risco alto quando  
 
 ## 9 Gráfico de Gantt 
