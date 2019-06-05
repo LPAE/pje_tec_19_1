@@ -1,9 +1,9 @@
 # SUMÁRIO
 
 1. [Descrição de Projeto](#1-Descrição-de-Projeto)   
-2. [Termo de Abertura de Projeto](#2-Termo-de-Abertura-do-Projeto)
-3. [EAP](#3-EAP)   
-4. [Quadro de Componentes Principais do Projeto](#4-Quadro-de-Componentes-Principais-do-Projeto)
+2. [Termo de Abertura de Projeto](#2-Termo-de-Abertura-de-Projeto)
+3. [EAP](#3-EAP)
+4. [Comercial](#4-Comercial)   
 5. [Quadro de Tempo das Etapas da EAP](#5-Quadro-de-Tempo-das-Etapas-da-EAP)  
 6. [Quadro de Equipe das Etapas da EAP](#6-Quadro-de-Equipe-das-Etapas-da-EAP)  
 7. [Diagrama de Rede](#7-Diagrama-de-Rede)  
