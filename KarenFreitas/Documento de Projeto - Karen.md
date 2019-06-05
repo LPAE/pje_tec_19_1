@@ -158,35 +158,67 @@ suas informações retificadas e acréscimo de informações.
 
 # 8 Quadro de Riscos  
 
-> Diante das atividades anteriormente estipuladas, define-se um quadro que expressa os riscos decorrentes no projeto, bem como suas consequências, suas chances de ocorrência, impacto no projeto e quais os planos de ação para resolução dos mesmos.
+> Diante das atividades disposta nos pacotes de trabalho da estrutura analitica de projeto, será desenvolvido um quadro que expressa os riscos decorrentes das atividades desenvolvidas, bem como suas consequências, suas chances de ocorrência, impacto no projeto e quais os planos de ação para resolução dos mesmos.
+>
+> O objetivo deste procedimento é estabelecer a sistemática para melhoria dos processos e do produto assegurando os resultados e a melhoria dos processos e abrange todos os setores da empresa e obedece as seguintes referencias normativas:
+>
+> - ABNT ISO9001:2015 – Sistemas de Gestão da Qualidade
+> - ABNT ISO31000:2009 – Gerenciamento de Riscos
+> - PMBOK 6a Edição – Project Management Book of Knowledge
+>
+> 
 
-## 8.1 Plano de Gerenciamento de Riscos
+### 8.1 Plano de Gerenciamento de Riscos
 
 > O gerenciamento de riscos é determinado a partir da EAP identificando em cada pacote de trabalho os riscos advindos de ameaças e oportunidades ao longo do desenvolvimento deste projeto.
-Espera-se que durante o ciclo de vida deste projeto o gerente de projeto seja capaz de minimizar as consequências dos eventos adversos (ameaças) e maximizar os resultados dos eventos favoráveis (oportunidades). Tanto ameaças quanto oportunidades são eventos que podem ou não acontecer sendo assim são riscos.
+> Espera-se que durante o ciclo de vida deste projeto, o gestor do processo seja capaz de minimizar as consequências dos eventos adversos (ameaças) e maximizar os resultados dos eventos favoráveis (oportunidades). Tanto ameaças quanto oportunidades são eventos que podem ou não acontecer sendo assim são riscos.
 
-## 8.2 Metodologia
+### 8.2 Metodologia
 
-> A metodologia implementada incluirá os seguintes planos e processos:
-> - 1: Reuniões a cada marco de projeto com os gestores de cada área.
+> A metodologia implementada incluirá os seguintes planos e processos, sendo que faz parte dos processos o conjunto de atividades para atingir o objetivo do projeto.
+> - 1: Reuniões a cada marco de projeto com os responsáveis de cada área da empresa, que se reúnem para discurtir os principais riscos e oportunidades associados aos processos e atividades por ela desenvolvidos.
 > - 2: Criação de relatórios que deverão ser apresentados a cada novo marco do projeto ou reuniões extraordinárias.
 > - 3: Acompanhamento da entrega dos serviços terceirizados mediante inspeção.
+>
+> No quadro a seguir são definidas as responsabilidades na estrutura de gerenciamento, identificação e acompanhamento dos riscos:
+>
+> 
+>
+> | CARGOS               | DESCRIÇÃO                                                    |
+> | -------------------- | :----------------------------------------------------------- |
+> | Colaboradores        | Responsáveis por identificar e resportar os possiveis riscos e oportunidades que possam impactar na qualidade. |
+> | Gestor dos Processos | Responsável  pelo recebimento das informações  refererente aos riscos, garantia de qualidade, monitoramento e controle dos riscos além de garantir a execução das ações preventivas e mitigatórias. |
+> | Gestor do Projeto    | Responsável por validar as ações e garantir o gerenciamento do risco |
+>
+> 
 
-## 8.3 Identificar os riscos
+### 8.3 Identificalçao dos Riscos
 
-> A identificação dos riscos será definido a partir de suas causas como por exemplo
-o "atraso na entrega dos componentes", e correlacionado com seu pacote de trabalho
-definido anteriormente na estrutura analítica.
-No quadro de identificação de riscos temos uma breve descrição do risco, os pacotes
-de trabalho onde o risco está presente, as consequências, as chance, o nível
-de impacto e um plano de resposta. A responsabilidade por mitigar e ou prevenir é
-de cada gestor
+> A identificação dos riscos será definido a partir de suas causas como por exemplo o "atraso na entrega dos componentes", e correlacionado com seu pacote de trabalho definido anteriormente na estrutura analítica. No quadro de identificação de riscos temos uma breve descrição do risco, os pacotes de trabalho onde o risco está presente, as consequências, as chance, o nível de impacto e um plano de resposta. A responsabilidade por mitigar e ou prevenir é
+> de cada gestor.  
+>
+> Classificação dos riscos:
+>
+> - Muito Alto : Impacto crítico no projeto;
+> - Alto: Impacto forte no projeto;
+> - Médio: Impacto médio no projeto;
+> - Baixo: Impacta pouco no projeto;
 
+### 8.4 Ações para abordar Riscos e Oportunidades
+
+> 	Após a priorização dos riscos e oportunidades mais críticos, o responsável pelo processo deve definir em conjunto com a equipe as estratégias de resposta para cada risco ou oportunidade. Uma vez definidas essas estratégias para cada risco considerado crítico as mesmas são validadas pela direção.
+
+> 	As possibilidades de resposta aos riscos e oportunidades seguem o padrão da metodologia do PMBOK, que trabalha as seguintes estratégias de resposta aos riscos:
+
+>   - Aceitar: a organização aceita conviver com o risco. Para este caso, nenhuma ação é tomada e o risco é apenas acompanhado. No caso de ocorrência do mesmo, deverá ser elaborado um plano de ação para solução do problema 	gerado pelo risco;
+>   - Transferir: transfere-se a responsabilidade do risco para um provedor externo;
+>   - Prevenir: elaboram-se estratégias de modo a tentar diminuir a probabilidade de o risco ocorrer ou impedi-lo de acontecer;
+>   - Mitigar: tomada de ações que visem reduzir o impacto no projeto;
+>   - Explorar: garantir que a oportunidade de fato aconteça.
+>   - Melhorar: facilitar ou aumentar as possibilidades de que a oportunidade aconteça no projeto;
+>   - Compartilhar: Unir-se a um ou mais terceiros que tenham maior qualificação para capturar a oportunidade para o projeto;
+>
 ![Quadro de Riscos](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_riscos.jpg)
-
-> Fatores de Risco Evidenciados
-> O risco está presente em qualquer empresa, em qualquer setor. Nesse sentido, o objetivo da pesquisa é identificar os tipos de risco evidenciados no Quadro de Riscos. Os riscos podem ser classificados em: risco baixo, risco médio e risco alto. A classificação de cada risco é medida de acordo com as consequências que este pode vir a causar.
-Atividades que se tornam dependentes umas das outras ou que envolvem fornecedores podem se tornar fatores de risco alto quando  
 
 # 9 Gráfico de Gantt 
 

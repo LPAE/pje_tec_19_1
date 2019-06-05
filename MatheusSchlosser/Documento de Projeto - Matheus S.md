@@ -1,9 +1,9 @@
 # SUMÁRIO
 
 1. [Descrição de Projeto](#1-Descrição-de-Projeto)   
-2. [Termo de Abertura de Projeto](#2-Termo-de-Abertura-do-Projeto)
-3. [EAP](#3-EAP)   
-4. [Quadro de Componentes Principais do Projeto](#4-Quadro-de-Componentes-Principais-do-Projeto)
+2. [Termo de Abertura de Projeto](#2-Termo-de-Abertura-de-Projeto)
+3. [EAP](#3-EAP)
+4. [Comercial](#4-Comercial)   
 5. [Quadro de Tempo das Etapas da EAP](#5-Quadro-de-Tempo-das-Etapas-da-EAP)  
 6. [Quadro de Equipe das Etapas da EAP](#6-Quadro-de-Equipe-das-Etapas-da-EAP)  
 7. [Diagrama de Rede](#7-Diagrama-de-Rede)  
@@ -105,13 +105,14 @@ Observações:
 >
 > O quadro de tercerização pretende listar os valores dos equipamentos que foram tercerizados com as empresas parceiras.
 >
-![Quadro de Tercerizacoes](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_terceirizacao.jpg)
+![Quadro Financeiro Terceirizacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_terceirizacao.jpg)
 >
 > ## 4.3 Quadro de Recursos Humanos
 >
 > O quadro de Recursos Humanos, lista os valores empregados a cada participante no desenvolvimento do projeto.
 
-![Quadro de RH](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_rh.jpg)
+![Quadro Financeiro RH](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_rh.jpg)
+
 
 ## 5 Quadro de Tempo das Etapas da EAP
 
@@ -225,4 +226,4 @@ Atividades que se tornam dependentes umas das outras ou que envolvem fornecedore
 
 
 
- 
+
