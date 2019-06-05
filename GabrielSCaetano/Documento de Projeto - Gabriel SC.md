@@ -95,20 +95,20 @@ Observações:
 > ## 4.1 Quadro de Componentes Principais do Projeto 
 >
 > O Quadro de Componentes visa listar as principais tecnologias que compõem o sistema eletrônico do gerador de função, com base no esquemático original. Fez-se também o levantamento dos preços e os fornecedores para ter-se uma ideia geral dos custos de componentes do projeto.
->
+
 ![Quadro de Componentes](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_componentes.jpg)
 >
 > ## 4.2 Quadro de Tercerização
 >
 > O quadro de tercerização pretende listar os valores dos equipamentos que foram tercerizados com as empresas parceiras.
->
-![Quadro Financeiro Terceirizacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_terceirizacao.jpg)
+
+![Quadro Financeiro Terceirizacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_terceirizacao.JPG)
 >
 > ## 4.3 Quadro de Recursos Humanos
 >
 > O quadro de Recursos Humanos, lista os valores empregados a cada participante no desenvolvimento do projeto.
 
-![Quadro Financeiro RH](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_rh.jpg)
+![Quadro Financeiro RH](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_rh.JPG)
 
 ## 5 Quadro de Tempo das Etapas da EAP
 
