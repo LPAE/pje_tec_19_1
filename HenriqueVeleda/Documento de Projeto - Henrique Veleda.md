@@ -215,13 +215,13 @@
 >
 > O quadro de tercerização pretende listar os valores dos equipamentos que foram tercerizados com as empresas parceiras.
 >
->![Quadro Financeiro Terceirizacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_terceirizacao.jpg)
+>![Quadro Financeiro Terceirizacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_terceirizacao.JPG)
 >
 > ## 4.3 - Quadro de Recursos Humanos:
 >
 > O quadro de Recursos Humanos, lista os valores empregados a cada participante no desenvolvimento do projeto.
 >
->![Quadro Financeiro RH](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_rh.jpg)
+>![Quadro Financeiro RH](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_rh.JPG)
 >
 
 # 5 - Quadro de Tempo das Etapas da EAP:  
@@ -290,7 +290,7 @@
 Para comunicação da equipe utiliza-se ferramentas de colaboração como Trello podendo ser identificado quem está trabalhando em uma atividade, o tempo previsto e o que está ocorrendo no processo.
 >Ainda inclui-se dentro do âmbito de comunicação, ferramentas de repositório que servem para armazenar, organizar e disseminar o projeto como Google Drive e GitHub. 
 >
->![Processos de Comunicacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/processos_de_comunicacao.jpg)
+>![Processos de Comunicacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/processos_de_comunicacao.JPG)
 
 # 8 - Diagrama de Rede:  
 >
