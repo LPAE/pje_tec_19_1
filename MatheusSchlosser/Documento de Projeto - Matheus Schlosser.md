@@ -1,48 +1,48 @@
 # SUMÁRIO
 
 0. [Resumo](#Resumo:)
-1. [Descrição de Projeto](#1---Descrição-do-Projeto-de-um-Gerador-de-Funções:)
-	1.1 [Introdução](#1.1---Introdução:)
-	1.2 [Objetivo](#1.2---Objetivo:)
-	1.3 [Metodologia](#1.3---Metodologia:)
-	1.4 [Topologia do Equipamento](#1.4---Topologia-do-Equipamento:)
-	1.5 [Escopo](#1.5---Escopo:)
-	1.6 [Recursos Humanos](#1.6---Recursos-Humanos:)
-	1.7 [Prazo Previsto](#1.7---Prazo-Previsto:)
-	1.8 [Restrições](#1.8---Restrições:)   
-2. [EAP](#2---EAP)
-3. [Descritivos Tecnicos](#3---Descritivos-Tecnicos:)
-	3.1 [Formas de Onda](#3.1---Formas de Onda:)
-	3.2 [Especificações Gerais](#3.2---Especificações Gerais:)
-	3.3 [Varredura Interna](#3.3---Varredura Interna:)
-	3.4 [Varredura Externa](#3.4---Varredura Externa:)
-	3.5 [Onda Senoidal](#3.5---Onda Senoidal:)
-	3.6 [Onda Triangular](#3.6---Onda Triangular:)
-	3.7 [Onda Quadrada](#3.7---Onda Quadrada:)
-	3.8 [Saída de Pulso](#3.8---Saída de Pulso:)
-	3.9 [Saída CMOS](#3.9---Saída CMOS:)
-	3.10 [Saída TTL](#3.10---Saída TTL:)
-	3.11 [Base de Tempo](#3.11---Base de Tempo:)
-4. [Comercial](#4---Comercial:)
-	4.1 [Quadro de Componentes Principais do Projeto](#4.1---Quadro-de-Componentes Principais-do-Projeto:)
-	4.2 [Quadro de Tercerização](#4.2---Quadro-de-Tercerização:)
+1. [Descrição de Projeto](#1---Descrição-do-Projeto-de-um-Gerador-de-Funções:)  
+	1.1 [Introdução](#1.1---Introdução:)  
+	1.2 [Objetivo](#1.2---Objetivo:)  
+	1.3 [Metodologia](#1.3---Metodologia:)  
+	1.4 [Topologia do Equipamento](#1.4---Topologia-do-Equipamento:)  
+	1.5 [Escopo](#1.5---Escopo:)  
+	1.6 [Recursos Humanos](#1.6---Recursos-Humanos:)  
+	1.7 [Prazo Previsto](#1.7---Prazo-Previsto:)  
+	1.8 [Restrições](#1.8---Restrições:)  
+2. [EAP](#2---EAP)  
+3. [Descritivos Tecnicos](#3---Descritivos-Tecnicos:)  
+	3.1 [Formas de Onda](#3.1---Formas de Onda:)  
+	3.2 [Especificações Gerais](#3.2---Especificações Gerais:)  
+	3.3 [Varredura Interna](#3.3---Varredura Interna:)  
+	3.4 [Varredura Externa](#3.4---Varredura Externa:)  
+	3.5 [Onda Senoidal](#3.5---Onda Senoidal:)  
+	3.6 [Onda Triangular](#3.6---Onda Triangular:)  
+	3.7 [Onda Quadrada](#3.7---Onda Quadrada:)  
+	3.8 [Saída de Pulso](#3.8---Saída de Pulso:)  
+	3.9 [Saída CMOS](#3.9---Saída CMOS:)  
+	3.10 [Saída TTL](#3.10---Saída TTL:)  
+	3.11 [Base de Tempo](#3.11---Base de Tempo:)  
+4. [Comercial](#4---Comercial:)  
+	4.1 [Quadro de Componentes Principais do Projeto](#4.1---Quadro-de-Componentes Principais-do-Projeto:)  
+	4.2 [Quadro de Tercerização](#4.2---Quadro-de-Tercerização:)  
 	4.3 [Quadro de Recursos Humanos](#4.3---Quadro-de-Recursos-Humanos:)   
 5. [Quadro de Tempo das Etapas da EAP](#5---Quadro-de-Tempo-das-Etapas-da-EAP:)  
-6. [Quadro de Equipe das Etapas da EAP](#6---Quadro-de-Equipe-das-Etapas-da-EAP:) 
-7. [Gerenciamento de Projeto da Equipe](#7---Gerenciamento-de-Projeto-da-Equipe:) 
-	7.1 [Gestão de Pessoas WMHKG](#7.1---Gestão de Pessoas WMHKG:)
-	7.2 [Planejar o Geranciamento do RH](#7.2---Planejar o Gerenciamento do RH:)
-	7.3 [Mobilizar a Equipe do Projeto](#7.3---Mobilizar a Equipe do Projeto:)
-	7.4 [Desemvpçver a Equipe do Projeto](#7.4---Desenvolver a Equipe do Projeto:)
-	7.5 [Gerenciar a Equipe do Projeto](#7.5---Gerenciar a Equipe do Projeto:)
-	7.6 [Processos de Comunicação](#7.6---Processos de Comunicação:)
+6. [Quadro de Equipe das Etapas da EAP](#6---Quadro-de-Equipe-das-Etapas-da-EAP:)  
+7. [Gerenciamento de Projeto da Equipe](#7---Gerenciamento-de-Projeto-da-Equipe:)  
+	7.1 [Gestão de Pessoas WMHKG](#7.1---Gestão de Pessoas WMHKG:)  
+	7.2 [Planejar o Geranciamento do RH](#7.2---Planejar o Gerenciamento do RH:)  
+	7.3 [Mobilizar a Equipe do Projeto](#7.3---Mobilizar a Equipe do Projeto:)  
+	7.4 [Desemvpçver a Equipe do Projeto](#7.4---Desenvolver a Equipe do Projeto:)  
+	7.5 [Gerenciar a Equipe do Projeto](#7.5---Gerenciar a Equipe do Projeto:)  
+	7.6 [Processos de Comunicação](#7.6---Processos de Comunicação:)  
 8. [Diagrama de Rede](#8---Diagrama-de-Rede:)  
 9. [Quadro de Riscos](#9---Quadro-de-Riscos:)  
-	9.1 [Plano de Gerenciamento de Riscos](#9.1---Plano-de-Gerenciamento-de-Riscos:)
-	9.2 [Metodologia](#9.2---Metodologia:)
-	9.3 [Identificalçao dos Riscos](#9.3---Identificalçao-dos-Riscos:)
-	9.4 [Ações para abordar Riscos e Oportunidades](#9.4---Ações-para-Abordar-Riscos-e-Oportunidades:)
-10. [Gráfico de Gantt](#10---Gráfico-de-Gantt:)
+	9.1 [Plano de Gerenciamento de Riscos](#9.1---Plano-de-Gerenciamento-de-Riscos:)  
+	9.2 [Metodologia](#9.2---Metodologia:)  
+	9.3 [Identificalçao dos Riscos](#9.3---Identificalçao-dos-Riscos:)  
+	9.4 [Ações para abordar Riscos e Oportunidades](#9.4---Ações-para-Abordar-Riscos-e-Oportunidades:)  
+10. [Gráfico de Gantt](#10---Gráfico-de-Gantt:)  
 
 # Resumo:
 > O gerador de funções é um equipamento gerador de sinais elétricos possuindo diversas formas de onda, tais como ondas triangulares, quadradas e senoidais. 
@@ -98,7 +98,7 @@
 > A estrutura analítica do projeto, tem como função separar o projeto em pequenas partes deixando-o mais articulado e de fácil controle, possibilitando uma visão estruturada do que deve ser entregue. É estruturada no formato de árvore hierárquica orientando às entregas que precisam ser feitas para completar um projeto. 
 > Desta forma foi separada a estrutura analitica de projeto em grandes grupos, sendo iniciado pelo termo de abertura do projeto que podemos ver no item,, apos temos os grupos de estrutura interna, onde referenciamos toda a parte interna de desenvolvimento do nosso gerador de funções.
 > Contamos também com o densevolvimento da estrutura externa do gerador, onde temos os  paineis, gabinete e a finalização do equipamento como um todo. Para esse projeto foi decidido que algumas etapas seriam tercerizadas, para assim proporcionar maior disponibilidade de recursos e tempo para o projeto.
-> Com a EAP bem desenvolvida foi feito o [Quadro de Tempo das Etapas da EAP](#5-Quadro-de-Tempo-das-Etapas-da-EAP) onde foi separado as etapas em seus tempos e com isso desenvolvemos o [Diagrama de Rede](#7-Diagrama-de-Rede) onde temos a divisão de todas as pequenas etapas feitas na EAP e a sequencia que vão ser desenvolvidas.
+> Com a EAP bem desenvolvida foi feito o Quadro de Tempo das Etapas da EAP onde foi separado as etapas em seus tempos e com isso desenvolvemos o Diagrama de Rede onde temos a divisão de todas as pequenas etapas feitas na EAP e a sequencia que vão ser desenvolvidas.
 >
 >![EAP](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/EAP.jpg)
 
@@ -203,7 +203,7 @@
 
 # 4 - Comercial:
 >
-> Para o densevolvimento do projeto, foi feito o levantamento das principais tecnologias que compõem o sistema, como descrito no [Quadro de Componentes Principais do Projeto](#4.1-Quadro-de-Componentes-Principais-do-Projeto). Como foi escolhido na [EAP](#3-EAP), para esse projeto contamos com a tercerização de algumas etapas, podemos analisar no [Quadro de Tercerização](#4.2-Quadro-de-Tercerização).   
+> Para o densevolvimento do projeto, foi feito o levantamento das principais tecnologias que compõem o sistema, como descrito no Quadro de Componentes Principais do Projeto. Como foi escolhido na EAP, para esse projeto contamos com a tercerização de algumas etapas, podemos analisar no Quadro de Tercerização.   
 >
 > ## 4.1 - Quadro de Componentes Principais do Projeto: 
 >
@@ -224,15 +224,16 @@
 >![Quadro Financeiro RH](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_financeiro_rh.jpg)
 >
 
-# 5 - Quadro de Tempo das Etapas da EAP:
+# 5 - Quadro de Tempo das Etapas da EAP:  
 >
 > Com base na estrutura analítica do projeto, o quadro de tempo é confeccionado escrevendo as tarefas a serem realizadas, juntamente com o prazo de tempo estimado para a conclusão das mesmas. Os tempos foram definidos de forma empírica, contando com a experiência do gestor de ter o cuidado de definir os prazos de forma segura, levando em consideração os possíveis riscos e uma margem de segurança para eventuais contratempos não previstos para as tarefas.
 >
 >![Quadro de Tempo](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_Tempo.jpg)
 
-# 6 - Quadro de Equipe das Etapas da EAP:
+# 6 - Quadro de Equipe das Etapas da EAP:  
 >Tendo em mente o projeto em questão, definiu-se os setores necessários para a conclusão de todas as etapas anteriormente descritas, com base em suas competências e especializações, visando assim, o melhor resultado final. 
 >Sendo assim, os setores competentes serão descritos abaixo, especificando sua função no projeto.
+>
 >**Recursos Humanos:** Pelo fato do desenvolvimento do produto contar com uma equipe interdisciplinar, o setor de RH torna-se necessário para a elaboração do termo de abertura, juntamente com a gestão das equipes, administração e monitoramento dos recursos e pessoal.	
 >
 >**Design de Produto:** Responsável por implementar no produto, o visual estético mais adequado para o mesmo, realizando pesquisas de mercado, marcas e modelos similares, opinião dos consumidores, intercalando com as exigências do comprador.
@@ -247,32 +248,57 @@
 >
 >![Quadro de Equipe](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/quadro_de_Equipe.jpg)
 
-# 7 - Gerenciamento de Projeto da Equipe:
+# 7 - Gerenciamento de Projeto da Equipe:  
 >
 >## 7.1 - Gestão de Pessoas WMHKG:
 >
 >O gerenciamento dos recursos humanos do projeto inclui os processos que organizam e gerenciam a equipe do projeto, e esta  é composta por pessoas com funções e responsabilidades atribuídas com foco no término do projeto. 	
 >
+>![gestao_de_pessoas](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/gestao_de_pessoas.jpg)
+>
 >## 7.2 - Planejar o Gerenciamento do RH:
->O planejamento é usado para determinar e identificar recursos humanos com as habilidades necessárias para o êxito do projeto
+>O planejamento é usado para determinar e identificar recursos humanos com as habilidades necessárias para o êxito do projeto, a equipe de  RH deve estar familiarizada com com os seguintes tópicos importantes no contexto produtivo e operacional:
+>
+> - Liderar, comunicar, negociar. 
+> - Delegar, motivar, treinar, monitorar e outros assuntos relacionados ao trato com indivíduos.
+> - Formação da equipe, tratamento de conflitos, e outros assuntos relacionados ao trato com grupos.
+> - Avaliação do desempenho, recrutamento, manutenção, relações de trabalho, regulamentações de saúde e segurança.
+> 
+>A equipe de Gerenciamento de RH deve definir técnicas  apropriadas para o gerenciamento de equipes de natureza temporária, com ciclo de vida curto de 6 meses, tendo seu número de interessados frequentemente se alterando.
 >
 >## 7.3 - Mobilizar a Equipe do Projeto:
->"falta finalizar esta parte"
+>As necessidades de pessoal definem quais tipos de habilidades são requeridas de quais tipos de indivíduos ou grupos e em que momento ao longo do projeto. Para este projeto o pessoal é designado previamente e deve considerar as características:
+>
+> - Experiência anterior.
+> - Interesses pessoais.
+> - Características pessoais.
+>
 >## 7.4 - Desenvolver a Equipe do Projeto:
->"falta finalizar esta parte"
+>Envolve aumentar a capacidade das partes envolvidas tanto para crescimento individual como um todo. A contribuição individual influencie positivamente em toda a equipe. O desenvolvimento da equipe do projeto incluem ações para melhorar o desempenho da equipe: 
+>
+> - Encontros de revisões regulares de situações.
+> - Experiências fora do trabalho.
+> - Planejar e melhorar relações interpessoais.
+> - Identificar e lidar com conflitos.
+> - Recompensas por bom desempenho.
+>
 >## 7.5 - Gerenciar a Equipe do Projeto:
->"falta finalizar esta parte"
+>Com uso de todas as ferramentas da equipe de RH o gerenciamento da equipe de projeto tem como finalidade acompanhar o desempenho da mesma, fornecer feedback, resolver problemas e coordenar possíveis mudanças para um resultado mais eficaz.
 >
 >## 7.6 - Processos de Comunicação:
-> "falta finalizar esta parte"
+>A comunicação do projeto inclui ferramentas que fornecem ligações entre os membros da equipe mantendo a mesma sempre informada e produtivas ao longo de todo projeto.
+Para comunicação da equipe utiliza-se ferramentas de colaboração como Trello podendo ser identificado quem está trabalhando em uma atividade, o tempo previsto e o que está ocorrendo no processo.
+>Ainda inclui-se dentro do âmbito de comunicação, ferramentas de repositório que servem para armazenar, organizar e disseminar o projeto como Google Drive e GitHub. 
+>
+>![Processos de Comunicacao](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/processos_de_comunicacao.jpg)
 
-# 8 - Diagrama de Rede:
+# 8 - Diagrama de Rede:  
 >
 > Diagrama de Redes representa de forma gráfica a sequência em que as etapas do projeto são priorizadas e concluídas, apresentando as relações entre as atividades. Dentro de cada tarefa é possível identificar o responsável, o tempo de início e conclusão, incluindo os conceitos de início e término mais cedo e mais tarde. 
 >
 >![Quadro do Diagrama de Redes](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/diagrama_de_rede_quadro.jpg)
 >
-> O caminho crítico considera que um projeto é formado por uma série de atividades interdependentes que estão relacionadas. O caminho crítico, então, é a sequência de tarefas que não possui folga nos prazos, não podendo ocorrer atrasos, sob risco de que o projeto seja comprometido. Considerando o caminho crítico elaborou-se o [Quadro de Riscos](#8-Quadro-de-Riscos), visando conter possiveis riscos.
+> O caminho crítico considera que um projeto é formado por uma série de atividades interdependentes que estão relacionadas. O caminho crítico, então, é a sequência de tarefas que não possui folga nos prazos, não podendo ocorrer atrasos, sob risco de que o projeto seja comprometido. Considerando o caminho crítico elaborou-se o Quadro de Riscos, visando conter possiveis riscos.
 >
 >![Diagrama de rede](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/diagrama_de_rede.jpg)
 
