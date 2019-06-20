@@ -1,5 +1,6 @@
 # SUMÁRIO
 
+
 0. [Resumo](#Resumo:)
 1. [Descrição de Projeto](#1---Descrição-do-Projeto-de-um-Gerador-de-Funções:)  
 	1.1 [Introdução]  
@@ -103,7 +104,7 @@
 >![EAP](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/EAP.jpg)
 
 
-# 3 - Descritivos Tecnicos:
+# 3 - Descritivos Técnicos:
 >
 >
 > ## 3.1 - Formas de Onda: 
