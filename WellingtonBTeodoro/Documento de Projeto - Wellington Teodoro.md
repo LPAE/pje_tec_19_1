@@ -5,44 +5,44 @@
 	1.1 Introdução  
 	1.2 Objetivo    
 	1.3 Metodologia    
-	1.4 Topologia do Equipamento 
-	1.5 Escopo
-	1.6 Recursos Humanos  
-	1.7 Prazo Previsto  
-	1.8 Restrições  
+	1.4 Topologia do Equipamento   
+	1.5 Escopo  
+	1.6 Recursos Humanos    
+	1.7 Prazo Previsto    
+	1.8 Restrições    
 2. [EAP](#2---EAP)  
 3. [Descritivos Técnicos](#3---Descritivos-Técnicos)  
-	3.1 Formas de Onda
-	3.2 Especificações Gerais
-	3.3 Varredura Interna
-	3.4 Varredura Externa
-	3.5 Onda Senoidal
-	3.6 Onda Triangular
-	3.7 Onda Quadrada
-	3.8 Saída de Pulso
-	3.9 Saída CMOS
-	3.10 Saída TTL
-	3.11 Base de Tempo
+	3.1 Formas de Onda  
+	3.2 Especificações Gerais  
+	3.3 Varredura Interna  
+	3.4 Varredura Externa  
+	3.5 Onda Senoidal  
+	3.6 Onda Triangular  
+	3.7 Onda Quadrada  
+	3.8 Saída de Pulso  
+	3.9 Saída CMOS  
+	3.10 Saída TTL  
+	3.11 Base de Tempo  
 4. [Comercial](#4---Comercial)  
-	4.1 Quadro de Componentes Principais do Projeto](#4.1---Quadro-de-Componentes-Principais-do-Projeto)  
-	4.2 Quadro de Tercerização
-	4.3 Quadro de Recursos Humanos](#4.3---Quadro-de-Recursos-Humanos)   
+	4.1 Quadro de Componentes Principais do Projeto
+	4.2 Quadro de Tercerização    
+	4.3 Quadro de Recursos Humanos  
 5. [Quadro de Tempo das Etapas da EAP](#5---Quadro-de-Tempo-das-Etapas-da-EAP)  
 6. [Quadro de Equipe das Etapas da EAP](#6---Quadro-de-Equipe-das-Etapas-da-EAP)  
 7. [Gerenciamento de Projeto da Equipe](#7---Gerenciamento-de-Projeto-da-Equipe)  
-	7.1 Gestão de Pessoas WMHKG
-	7.2 Planejar o Geranciamento do RH
-	7.3 Mobilizar a Equipe do Projeto
-	7.4 Desenvolver a Equipe do Projeto
-	7.5 Gerenciar a Equipe do Projeto
-	7.6 Processos de Comunicação
+	7.1 Gestão de Pessoas WMHKG  
+	7.2 Planejar o Geranciamento do RH  
+	7.3 Mobilizar a Equipe do Projeto  
+	7.4 Desenvolver a Equipe do Projeto  
+	7.5 Gerenciar a Equipe do Projeto  
+	7.6 Processos de Comunicação  
 8. [Diagrama de Rede](#8---Diagrama-de-Rede)  
 9. [Quadro de Riscos](#9---Quadro-de-Riscos)  
-	9.1 Plano de Gerenciamento de Riscos
-	9.2 Metodologia  
-	9.3 Identificalçao dos Riscos
-	9.4 Ações para abordar Riscos e Oportunidades
-10. [Gráfico de Gantt](#10---Gráfico-de-Gantt)  
+	9.1 Plano de Gerenciamento de Riscos  
+	9.2 Metodologia    
+	9.3 Identificalçao dos Riscos  
+	9.4 Ações para abordar Riscos e Oportunidades  
+10. [Gráfico de Gantt](#10---Gráfico-de-Gantt)    
 
 # Resumo:
 > O gerador de funções é um equipamento gerador de sinais elétricos possuindo diversas formas de onda, tais como ondas triangulares, quadradas e senoidais. 
