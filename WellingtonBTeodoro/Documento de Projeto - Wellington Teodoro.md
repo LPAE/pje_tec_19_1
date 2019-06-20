@@ -2,8 +2,8 @@
 
 0. [Resumo](#Resumo:)
 1. [Descrição de Projeto](#1---Descrição-do-Projeto-de-um-Gerador-de-Funções:)  
-	1.1 [Introdução](#1.1---Introdução:)  
-	1.2 [Objetivo](#1.2---Objetivo:)  
+	1.1 [Introdução]  
+	1.2 [Objetivo]  
 	1.3 [Metodologia](#1.3---Metodologia:)  
 	1.4 [Topologia do Equipamento](#1.4---Topologia-do-Equipamento:)  
 	1.5 [Escopo](#1.5---Escopo:)  
@@ -33,7 +33,7 @@
 	7.1 [Gestão de Pessoas WMHKG](#7.1---Gestão-de-Pessoas-WMHKG:)  
 	7.2 [Planejar o Geranciamento do RH](#7.2---Planejar-o-Gerenciamento-do-RH:)  
 	7.3 [Mobilizar a Equipe do Projeto](#7.3---Mobilizar-a-Equipe-do-Projeto:)  
-	7.4 [Desemvpçver a Equipe do Projeto](#7.4---Desenvolver-a-Equipe-do- Projeto:)  
+	7.4 [Desenvolver a Equipe do Projeto](#7.4---Desenvolver-a-Equipe-do-Projeto:)  
 	7.5 [Gerenciar a Equipe do Projeto](#7.5---Gerenciar-a-Equipe-do- Projeto:)  
 	7.6 [Processos de Comunicação](#7.6---Processos-de-Comunicação:)  
 8. [Diagrama de Rede](#8---Diagrama-de-Rede:)  
