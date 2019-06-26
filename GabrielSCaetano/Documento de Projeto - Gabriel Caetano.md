@@ -2,7 +2,7 @@
 
 0. [Resumo](#Resumo)  
 
-1. [Descrição de Projeto](#1---Descrição-do-Projeto-de-um-Gerador-de-Funções:)  
+1. [Descrição de Projeto](#1---Descrição-do-Projeto-de-um-Gerador-de-Funções)  
 	1.1 Introdução  
 	1.2 Objetivo    
 	1.3 Metodologia    
@@ -56,15 +56,14 @@
 	9.1 Plano de Gerenciamento de Riscos  
 	9.2 Metodologia    
 	9.3 Identificação dos Riscos  
-	9.4 Ações para abordar Riscos e Oportunidades   
+	9.4 Ações para abordar Riscos e Oportunidades     
 	
-10. [Gráfico de Gantt](#10---Gráfico-de-Gantt:)    
+10. [Gráfico de Gantt](#10---Gráfico-de-Gantt:)        
 
 11. [Fechamento do Projeto](#11---Fechamento-do-Projeto:)   
 
     11.1 - Fechamento Externo  
-
-    11.2 - Fechamento Interno   
+11.2 - Fechamento Interno             
 
 # Resumo:
 > O gerador de funções é um equipamento gerador de sinais elétricos possuindo diversas formas de onda, tais como ondas triangulares, quadradas e senoidais. 
