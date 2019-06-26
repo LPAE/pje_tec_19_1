@@ -16,7 +16,7 @@
 	2.1 Iniciação  
 	2.2 Planejamento do Escopo  
 	2.3 Detalhamento do Escopo  
-	    2.3.1 Estrutura Analítica do Projeto - EAP        
+		2.3.1 Estrutura Analítica do Projeto - EAP  
 	2.4 Verificação do Escopo  
 	2.5 Controle de Mudanças do Escopo  
 	
