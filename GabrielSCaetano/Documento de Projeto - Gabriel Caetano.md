@@ -12,15 +12,15 @@
 	1.7 Prazo Previsto    
 	1.8 Restrições    
 	
-2. [Gestão do Escopo do Projeto](#2---Gestão-do-Escopo-do-Projeto:)  
+2. [Gestão do Escopo do Projeto](#2---Gestão-do-Escopo-do-Projeto)  
 	2.1 Iniciação  
 	2.2 Planejamento do Escopo  
 	2.3 Detalhamento do Escopo  
-		2.3.1 Estrutura Analítica do Projeto - EAP        
+	    2.3.1 Estrutura Analítica do Projeto - EAP        
 	2.4 Verificação do Escopo  
 	2.5 Controle de Mudanças do Escopo  
 	
-3. [Descritivos Técnicos](#3---Descritivos-Técnicos:)    
+3. [Descritivos Técnicos](#3---Descritivos-Técnicos)    
 	3.1 Formas de Onda  
 	3.2 Especificações Gerais  
 	3.3 Varredura Interna  
@@ -33,16 +33,16 @@
 	3.10 Saída TTL  
 	3.11 Base de Tempo  
 	
-4. [Comercial](#4---Comercial:)   
+4. [Comercial](#4---Comercial)   
 	4.1 Quadro de Componentes Principais do Projeto  
 	4.2 Quadro de Terceirização    
 	4.3 Quadro de Recursos Humanos  
 	
-5. [Quadro de Tempo das Etapas da EAP](#5---Quadro-de-Tempo-das-Etapas-da-EAP:)  
+5. [Quadro de Tempo das Etapas da EAP](#5---Quadro-de-Tempo-das-Etapas-da-EAP)  
 
-6. [Quadro de Equipe das Etapas da EAP](#6---Quadro-de-Equipe-das-Etapas-da-EAP:)  
+6. [Quadro de Equipe das Etapas da EAP](#6---Quadro-de-Equipe-das-Etapas-da-EAP)  
 
-7. [Gerenciamento de Projeto da Equipe](#7---Gerenciamento-de-Projeto-da-Equipe:)  
+7. [Gerenciamento de Projeto da Equipe](#7---Gerenciamento-de-Projeto-da-Equipe)  
 	7.1 Gestão de Pessoas WMHKG  
 	7.2 Planejar o Gerenciamento do RH  
 	7.3 Mobilizar a Equipe do Projeto  
@@ -50,20 +50,19 @@
 	7.5 Gerenciar a Equipe do Projeto  
 	7.6 Processos de Comunicação  
 	
-8. [Diagrama de Rede](#8---Diagrama-de-Rede:)  
+8. [Diagrama de Rede](#8---Diagrama-de-Rede)  
 
-9. [Quadro de Riscos](#9---Quadro-de-Riscos:)  
+9. [Quadro de Riscos](#9---Quadro-de-Riscos)  
 	9.1 Plano de Gerenciamento de Riscos  
 	9.2 Metodologia    
 	9.3 Identificação dos Riscos  
 	9.4 Ações para abordar Riscos e Oportunidades     
 	
-10. [Gráfico de Gantt](#10---Gráfico-de-Gantt:)        
+10. [Gráfico de Gantt](#10---Gráfico-de-Gantt)        
 
-11. [Fechamento do Projeto](#11---Fechamento-do-Projeto:)   
-
+11. [Fechamento do Projeto](#11---Fechamento-do-Projeto)   
     11.1 - Fechamento Externo  
-11.2 - Fechamento Interno             
+	11.2 - Fechamento Interno             
 
 # Resumo:
 > O gerador de funções é um equipamento gerador de sinais elétricos possuindo diversas formas de onda, tais como ondas triangulares, quadradas e senoidais. 
