@@ -286,7 +286,7 @@
 >    Custo  indireto,  são  gastos  que  não  podem  ser  atribuídos  de  forma  direta, somente através de critérios de rateio, são gastos que a empresa tem para exercer atividades no geral e não relacionadas diretamente ao produto ou serviço.
 >    Os  custos  indiretos  dificilmente  podem  ser  identificados  diretamente  com  o produto, uma vez que exista diversificação de produtos ou serviços no mesmo estabelecimento.
 >
->![imagem_custo](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/imagem_custo.jpg)
+>![imagem_custo](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/imagemCusto.jpg)
 >
 > ## 4.4 - Formação do preço de venda:
 >    Para se chegar preço venda no comércio e na prestação de serviços, deve-se verificar  o  custo  total  de  aquisição  da  mercadoria e  obter  demais  informações (impostos  e  despesas,  com  venda  e  a  margem  de  lucro  desejada).
@@ -299,7 +299,7 @@
 >
 >    E também é necessário levar em conta todo o custo da empresa para a produção desse equipamento, custo de equipe e lucro do produto e os mesmos fatores de NF, IPI, ICMS, Frete vistos acima na compra.
 >
->![fluxo_produto](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/fluxo_produto.jpg)
+>![fluxo_produto](https://github.com/LPAE/pje_tec_19_1/blob/master/GabrielSCaetano/diretorio_imagens/fluxoProduto.jpg)
 >    
 >    O projeto corre o risco de ser cancelado, seja por uma falha crônica e irrecuperável de planejamento ou execução, como também por motivos estratégicos, que requeiram seu encerramento.
 >
